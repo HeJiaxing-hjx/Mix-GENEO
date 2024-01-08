@@ -1,0 +1,8 @@
+bokeh==2.0.2
+matplotlib==2.2.3
+numpy==1.15.4
+ripser==0.5.2
+scikit_learn==1.0.2
+scipy==1.5.4
+tensorflow==1.13.1
+tqdm==4.66.1
